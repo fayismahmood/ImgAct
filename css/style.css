@@ -1,0 +1,409 @@
+html, body {
+    height: 100%;
+    /* margin: 0px; */
+}
+.header{
+    position: fixed;
+    background-color: white;
+    height: 80px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    z-index: 1;
+    box-shadow: 0px 0px 2px #d6a9a9
+    
+}
+.headerSp{
+    /*! background-color: #952e27; */
+    height: 60px;
+    width: max-content;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+}
+.headerSp>div{
+    background-color: #a43932;
+    height: 30px;
+    position: relative;
+    top: 24px;
+    font-size: 20px;
+    font-family: Roboto Slab;
+    line-height: 2;
+    width: 30px;
+    border-radius: 50%;
+    display: inline;
+    text-align: center;
+    margin-right: 10px;
+    color: #ffffffa1;
+    padding: 2px;
+}
+.headerSp>div:hover{
+    color: white;
+}
+
+.headerBut{
+    height: 80px;
+    width: 100px;
+    position: relative;
+    top: 18px;
+    color: #7a0000;
+    font-size: 20px;
+    font-family: Roboto Slab;
+    line-height: 3;
+}
+
+
+
+.slide h1{
+    position: absolute;
+    top: 100px;
+    left: 70px;
+    font-family: Roboto Slab;
+    font-size: 40px;
+    color: white;
+    max-width: 300px;
+}
+.slide h1 span{
+    background-color: #d92d22;
+    box-decoration-break: clone;
+    line-height: 55px;
+}
+.slide div{
+    position: absolute;
+    word-break: break-word;
+    width: 200px;
+    top: 190px;
+    left: 70px;
+    font-weight: 400;
+    font-family: Roboto Slab;
+    color: white;
+    text-shadow: 0px 1px 2px black;
+}
+.teams{
+    margin-top: 10px;
+    width: 130px;
+    padding: 10px;
+    background-color: white;
+    border-radius: 5px;
+    margin:20px;
+    height: 50px;
+    box-shadow: 0px 2px 2px #d6a9a9;
+    border-left: #a00000 solid;
+}
+.teamTab{
+    display: flex;
+    flex-direction: row;
+}
+.hou{
+    display: flex;
+    flex-direction: row;
+}
+.graph{
+   height: 400px !important;
+   width:400px !important ;
+   box-shadow: 0px 2px 2px #d6a9a9;
+   border-radius: 20px;
+}
+
+
+body{
+    margin: 0px;
+    background-color:white;
+    overflow: auto;
+}
+.rou{
+    height: 50px;width: 50px; border-radius: 50%;
+    font-family: Roboto Slab;
+    font-size: 30px;
+    vertical-align: middle;
+    line-height: 50px;
+    justify-content: center;
+    color: white;
+
+}
+.PoinNav{
+    font-family: Roboto Slab;
+    vertical-align: middle;
+    color: #a11d20;
+    line-height: 35px;
+    font-size: 20px;
+    margin-left: 10px;
+}
+.teamName{
+    font-size: 12px;
+    margin-top: -15px;
+}
+#result_GGrand{
+    position: relative;
+}
+.GrandRe{
+    border-radius: 20px;
+    width: 300px;
+    position: relative;
+    bottom: 400px;
+    left: 450px;
+    padding: 30px;
+    display: flex;
+    flex-direction: row;
+  
+  object
+}
+
+
+
+.slider{
+    position: relative;
+    top: -15px;
+    left: 0px;
+    height:100%;
+    width: 50%;
+    margin-top: -20px;
+    clip-path: polygon(0px 0px, 100% 0px, 84.24% 53.43%, 81.22% 99.4%, 0px 100%);
+}
+.slide{
+    display: none;
+    width: 0px;
+    height: 0px;
+
+    background-size:auto 600px;
+
+
+}
+.slided{
+    position: relative;
+    display: block;
+    height:700px;
+    width: 100%;
+    animation: Chang 1s ;
+
+    background-blend-mode: overlay;
+    background-size:auto 800px;
+
+}
+.headline{
+    position: absolute;
+    left: 660px;
+    top: 20%;
+}
+.aboutSec{
+    position: relative;
+    height: 700px;
+    width: 100%;
+    margin-top: -20px;
+}
+.about{
+    width: 100%;
+    height:300px;
+    background: radial-gradient(#f32800,#ce2f2f);
+    clip-path: polygon(0 0, 100% 0%, 100% 100%, 0 80%);
+
+}
+.about>.txt{
+    width: 50%;
+    word-wrap: break-word;
+    
+    padding: 60px;
+    color: white;
+    font-family: Roboto Slab;
+    font-size: 25px;
+}
+.Com{
+    width: 70%;
+    height: 300px;
+    padding: 30px;
+
+    display: flex;
+    flex-direction: row;
+   
+}
+.Comm {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: 30px;
+    background-color: white;
+    box-shadow: 0 0 6px #d92d22;
+    padding: 20px;
+}
+.result_table{
+    
+}
+.FullRes{
+    
+    top: -400px;
+    height: max-content;
+    background-color:#fffefe;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    position: relative;
+}
+.ResField{
+    position: relative;
+    box-shadow:0px -1px 5px #daabab;
+    background-color: white;
+    width: max-content;
+    margin-bottom: 80px;
+    border-bottom: 3px #a11d20 solid;
+}
+.ResField>div{
+    font-family: Roboto Slab;
+    font-size: 12px;
+ display: flex;
+    /*! margin: 40px; */
+}
+.ResField>div>div{
+    width: 280px;
+    padding: 10px;
+    border-bottom: .2px solid #a11d205e;
+}
+.ResField>div>div:first-child{
+    font-weight: 600;
+    width: 100px;
+}
+.ResField>div:first-child>div{
+    font-weight: 600;
+    background-color: #fff;
+    color: black;
+    border-bottom: 5px solid #a11d20;
+}
+.ResField>div>div>span{
+    padding-left: 5px;
+}
+.Withgrade{
+    height: 20px;
+    width: 20px;
+    float: right;
+    color: white;
+    font-size: 10px;
+    font-weight: 300;
+    background-color: #7a0000;
+    border-radius: 50%;
+    border: none;
+    margin-top: 5px;
+}
+
+
+.point_col{
+
+    height: 25px;
+    width: 25px;
+    background-color: #7963e1;
+    padding: 5px;
+    font-size: 20px;
+    color: white;
+    display: inline-block;
+    text-align: center;
+}
+.ResTabCol>div{
+    display: flex;
+    flex-direction: row;
+}
+.first{
+    border:none;
+    padding: 5px;
+    font-size: 10px;
+    background-color: #FF3333;
+    border-radius: 15px;
+    color: white;
+    margin: 2px;
+}
+.second{
+    font-size: 10px;
+    border:none;
+    padding: 5px;
+    background-color: #5A3211;
+    border-radius: 15px;
+    color: white;
+    margin: 2px;
+
+}
+.third{
+    font-size: 10px;
+    border:none;
+    padding: 5px;
+    background-color: #4d5a11;
+    border-radius: 15px;
+    color: white;
+    margin: 2px;
+}
+.grade{
+    font-size: 10px;
+    border:none;
+    padding: 5px;
+    background-color: #e7a422;
+    border-radius: 15px;
+    color: white;
+    margin: 2px;
+}
+
+
+.subH{
+    font-family: Roboto Slab;box-shadow: -1px 3px 5px 0px #daabab;font-size: 30px; font-weight: 800; color: #A00000; background-color: white; width:100%; padding: 10px; 
+}
+.subHh{
+    font-family: Roboto Slab;box-shadow: -1px 3px 5px 0px #daabab;font-size: 25px; font-weight: 800; color: #A00000; background-color: white; width:1000px; padding: 10px; display: flex;flex-direction: row;
+}
+
+.GrandRediv{
+    display: none;
+}
+
+.Change{
+    display: block;
+    animation: key .6s linear 1s backwards;
+
+    display: flex;
+    flex-direction: row;
+}
+.Change>img{
+    margin: 30px;
+    float: left;
+}
+
+@keyframes Chang{
+    0%{transform:translateY(-590px) scale(0);}
+    30%{transform:translateZ(300px);}
+    100%{transform:translateY(0);}
+
+}
+@keyframes key {
+    0% {
+		transform:translateX(550px);
+	}
+	
+	100% {
+
+		transform:translateX(0);
+	}
+
+}
+
+
+
+@keyframes aa{
+    0%{opacity: 0;}100%{opacity: 1;}
+}
+.total{
+    width: 50px;
+    position: relative;
+   font-size:20px;
+   color: white;
+    background-color: #a11d20;
+    top: 40px;
+}
+.TotF{
+    position: absolute;
+    bottom: 0px;
+}
+
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/robotoslab/v10/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmYmRjRdE.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}

@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<script>
+</script>
+
+  
+<script src="Js/jquery-3.4.1.js"></script>
+
+<script src="Js/chart.js"></script>
+<script src="Js/ScrollMagic.js"></script>
+<script src="Js/anime.js"></script>
+<script src="Js/animation.anime.js"></script>
+
+<script src="Js/main.js"></script>
+
+
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/ico/icon.css">
+
+
+
+<head>
+    <meta charset="UTF-8">
+    <title>Activar</title>
+</head>
+<body>
+
+<div class="header">
+    <div style="padding: 20px;padding-left: 10px;">
+     <img src="https://cdn.glitch.com/99febfc0-ee91-4a83-b0aa-202d75be9d55%2Flogo.png?v=1574269319962" height="50px" alt="">
+    </div>
+    <div style="width:600px;"></div>
+    <div id="Ho" class="headerBut">Home</div>
+    <div id="Re" class="headerBut">Result</div>
+    <div class="headerSp">
+        <div><i class="material-icons">list_alt</i></div>
+        <div><i class="material-icons">videocam</i></div>
+        <div><i class="material-icons">notification_important</i></div>
+    </div>
+</div>
+
+<div id="Home">
+<div class="headline">
+    <div>
+        <img height="400" src="https://cdn.glitch.com/99febfc0-ee91-4a83-b0aa-202d75be9d55%2Flogo.png?v=1574269319962" alt="">
+    </div>
+</div>
+
+<div id="aa" >
+    <div id="slider" class="slider">
+
+    <!-- Begin slides. Just make elements with a class of slide. -->
+
+    <section style="background-image:  url('img/Cover.jpg') " class="slide slided">
+        <h1><span>defining new defnitions of art</span></h1>
+    </section>
+
+    <section style="background-image: url('https://cdn.glitch.com/99febfc0-ee91-4a83-b0aa-202d75be9d55%2Fing.jpg?v=1574389683980') ; background-repeat: no-repeat;" class="slide">
+        <h1><span>The real talent war begins here</span></h1>
+
+    </section>
+
+    <section style="background-image:url('https://cdn.glitch.com/99febfc0-ee91-4a83-b0aa-202d75be9d55%2Fteachers.jpg?v=1574390470126') ;" class="slide">
+        <h1><span>300 participants<br> 250 programs <br> 3 Groups </span></h1>
+    </section>
+    
+    
+    <section style="background-image: url(https://cdn.glitch.com/99febfc0-ee91-4a83-b0aa-202d75be9d55%2Fa.JPG?v=1574390482779);" class="slide">
+        <h1 style="font-size: 50px;"><span>1 Champion</span></h1>
+    </section>
+
+    </div>
+</div>
+</div>
+<div class="aboutSec">
+    <div class="about">
+        <div class="txt">
+            Activar 2019 is the Manhaj student's art fest conducted by MISBAH, the student's association of Manhajur Rashad Islamic College, chelembra. Activar aims to activate the creative ideas, thoughts and skills amoung the students.            <div style="position: absolute; top: 40px; right: 60px;  height: 180px; width: 180px; border-radius: 50%; border: white 8px solid;"><i style="font-size: 120px;position: relative;left: 50px; margin-left: -20px;line-height: 180px;vertical-align: middle"  class="material-icons">question_answer</i></div>
+    </div>
+  <!--
+
+  <div class="Com">
+        <div class="Comm">
+
+        </div>
+        <div class="Comm">
+
+        </div>
+        <div class="Comm">
+
+        </div>
+    </div>
+  -->
+  </div>
+</div>
+
+<div id="result_GGrand">
+    <div class="subH" >Result</div>
+<div class="teamTab">
+            <div class="teams">
+                <div class="hou">
+                    <div class="rou" style=" background-color: #008000"></div>
+                    <div class="PoinNav" >628<div class="teamName">Excellentia</div></div>
+                </div>
+            </div>
+            <div class="teams">
+                <div class="hou">
+                    <div class="rou" style="background-color: #0000cd"></div>
+                    <div class="PoinNav">642<div class="teamName">Inteligentia</div></div>
+                </div>
+            </div>
+            <div class="teams">
+                <div class="hou">
+                    <div class="rou" style="background-color: #FF4D88"></div>
+                    <div class="PoinNav">651<div class="teamName">Prominentia</div></div>
+                </div>
+            </div>
+    </div>
+<div class="graph">
+    <canvas width="500" height="400" id="myChart" class="housCh"></canvas>
+    
+    <script>
+        var ctx = document.getElementById('myChart').getContext('2d');
+        var myChart = new Chart(ctx, {
+    type: 'bar',
+    data: {
+        labels: ['Base','EXC', 'INT', 'PRO'],
+        datasets: [{
+            label: 'Graph of total score scale',
+            data: [600,628,642, 651],
+            backgroundColor: [
+                'rgba(255, 206, 86, 0.2)',
+                'rgb(0,128,0)',
+                'rgb(0, 0, 205)',
+                'rgb(255,77,136)'
+            ],
+            borderColor: [
+                '#fc0abf',
+                '#008000',
+                '#0000cd',
+                '#FF4D88'
+            ],
+            borderWidth: 5,
+            options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            scales: {
+                yAxes: [{
+                    ticks: {
+                        beginAtZero:true
+                    }
+        }]
+    }
+}
+        }]
+    },
+    
+});
+
+
+    </script>
+</div>
+<div class="GrandRe">
+     <div class="Change"><img height="300"  src="https://cdn.glitch.com/99febfc0-ee91-4a83-b0aa-202d75be9d55%2FSNAP%20SHOT%201.jpg?v=1574338368909" alt=""><img height="300" src="https://cdn.glitch.com/99febfc0-ee91-4a83-b0aa-202d75be9d55%2Fcongrats%202.jpg?v=1574353156158" alt=""><img height="300" src="https://cdn.glitch.com/99febfc0-ee91-4a83-b0aa-202d75be9d55%2Fcongrats%201.jpg?v=1574353370183" alt=""></div>
+     <div class="GrandRediv" ><img height="300"  src="https://cdn.glitch.com/99febfc0-ee91-4a83-b0aa-202d75be9d55%2Fsnapshot%205.jpg?v=1574338619846" alt=""><img height="300" src="https://cdn.glitch.com/99febfc0-ee91-4a83-b0aa-202d75be9d55%2Fsnap%20shot%202(1).jpg?v=1574353520714" alt=""><img height="300"  src="https://cdn.glitch.com/99febfc0-ee91-4a83-b0aa-202d75be9d55%2Fsnap%20shot%202.jpg?v=1574353549098" alt=""></div>
+  <!--   <div class="GrandRediv" ><img height="300" src="img/logo.png" alt=""><img height="300" src="img/logo.png" alt=""><img height="300" src="img/logo.png" alt=""></div>
+    -->
+<script>
+var timeD=1
+function setA(){
+    $(".GrandRe").find("div:nth-child("+timeD+")").toggleClass("GrandRediv Change");
+
+    if(timeD==2){
+        timeD=1;
+    }else{
+        timeD++;
+    }
+    $(".GrandRe").find("div:nth-child("+timeD+")").toggleClass("GrandRediv Change");
+
+    setTimeout(setA,6000);
+}
+$(document).ready(e=>{
+    setA()
+    $("#Ho").click(e=>{
+       window.scrollTo(0,0)
+    })
+    $("#Re").click(e=>{
+       window.scrollTo(0,1000)
+    })
+
+
+})
+</script>
+
+</div>
+    <div class="result_table">
+        
+    </div>
+</div>
+
+<div class="FullRes">
+    <div class="subHh">Bidaya <div style="width: 300px;"></div> <div class="first">First</div> <div class="second">Second</div><div class="third">Third</div><div class="grade">Grade without position</div><div class="Withgrade"></div><span style="color: black;font-size: 10px; line-height: 30px;">:Grade</span></div>
+    <div class="ResField" id="Bidaya" >
+        <div>
+                <div>Program</div>
+                <div>Prominentia</div>
+                <div>Inteligentia</div>
+                <div>excellentia</div>
+          
+        </div>
+    </div>
+
+    <div class="subHh">Uoola<div style="width: 300px;"></div> <div class="first">First</div> <div class="second">Second</div><div class="third">Third</div><div class="grade">Grade without position</div><div class="Withgrade"></div><span style="color: black;font-size: 10px; line-height: 30px;">:Grade</span></div>
+    <div class="ResField" id="Uoola" >
+        <div>
+                <div>Program</div>
+                <div>Prominentia</div>
+                <div>Inteligentia</div>
+                <div>excellentia</div>
+          
+        </div>
+    </div>
+
+    <div class="subHh">Thaniya <div style="width: 300px;"></div> <div class="first">First</div> <div class="second">Second</div><div class="third">Third</div><div class="grade">Grade without position</div><div class="Withgrade"></div><span style="color: black;font-size: 10px; line-height: 30px;">:Grade</span></div>
+    <div class="ResField" id="Thaniya" >
+        <div>
+                <div>Program</div>
+                <div>Prominentia</div>
+                <div>Inteligentia</div>
+                <div>excellentia</div>
+          
+        </div>
+    </div>
+
+    <div class="subHh">Thanawiya <div style="width: 300px;"></div> <div class="first">First</div> <div class="second">Second</div><div class="third">Third</div><div class="grade">Grade without position</div><div class="Withgrade"></div><span style="color: black;font-size: 10px; line-height: 30px;">:Grade</span></div>
+    <div class="ResField" id="Thanawiya" >
+        <div>
+                <div>Program</div>
+                <div>Prominentia</div>
+                <div>Inteligentia</div>
+                <div>excellentia</div>
+          
+        </div>
+    </div>
+  
+    <div class="subHh">Aliya<div style="width: 300px;"></div> <div class="first">First</div> <div class="second">Second</div><div class="third">Third</div><div class="grade">Grade without position</div><div class="Withgrade"></div><span style="color: black;font-size: 10px; line-height: 30px;">:Grade</span></div>
+    <div class="ResField" id="Aliya" >
+        <div>
+                <div>Program</div>
+                <div>Prominentia</div>
+                <div>Inteligentia</div>
+                <div>excellentia</div>
+          
+        </div>
+    </div>
+  
+</div>
+
+</body>
+</html>
+
+
+
+<script>
+
+if(window.screen.height<window.screen.width){
+var controller = new ScrollMagic.Controller();
+
+var HomeAn = anime({
+    targets: "#Home",
+    scale: [1, .1],
+    opacity:[1,0]
+});
+
+var aboutSec = anime({
+    targets: ".aboutSec",
+    translateY:[0,100]
+});
+
+
+var animation = anime({
+    targets: ".header",
+    translateY:[-100,0]
+});
+
+
+new ScrollMagic.Scene({
+    triggerElement: ".aboutSec",
+    duration: "100%",
+    triggerHook: 0.9
+})
+.setAnime(animation)
+.addTo(controller);
+
+
+
+new ScrollMagic.Scene({
+    triggerElement: ".aboutSec",
+    duration: "300%",
+    triggerHook: 0.9
+})
+.setAnime(HomeAn)
+.addTo(controller);
+
+
+new ScrollMagic.Scene({
+    triggerElement: ".aboutSec",
+    duration: "150%",
+    triggerHook: 0.9
+})
+.setAnime(aboutSec)
+.addTo(controller);
+}
+</script>

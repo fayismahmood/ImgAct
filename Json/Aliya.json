@@ -1,0 +1,857 @@
+{"Program":{
+    "Aliya":{
+    "A45":{
+    "Program":"News writing and reading Urd",
+    "type":"SINGLE STAGE",
+    "result":{
+    "first":{
+    "adNo":[],"grade":[]},
+    "second":{
+    "adNo":[],"grade":[]},
+    "third":{
+    "adNo":[],"grade":[]},
+    "grade":{
+    "adNo":[],"grade":[]}
+    }
+    },
+    "A42":{
+    "Program":"Ghazal URD",
+    "type":"SINGLE STAGE",
+    "result":{
+    "first":{
+    "adNo":[],"grade":[]},
+    "second":{
+    "adNo":[],"grade":[]},
+    "third":{
+    "adNo":[],"grade":[]},
+    "grade":{
+    "adNo":[],"grade":[]}
+    }
+    },
+    "A43":{
+    "Program":"News writing and reading Arb",
+    "type":"SINGLE STAGE",
+    "result":{
+    "first":{
+    "adNo":["251"],"grade":["A"]},
+    "second":{
+    "adNo":["208"],"grade":["A"]},
+    "third":{
+    "adNo":["209"],"grade":["B"]},
+    "grade":{
+    "adNo":["314"],"grade":["B"]}
+    }
+    },
+    "A44":{
+    "Program":"News writing and reading Eng",
+    "type":"SINGLE STAGE",
+    "result":{
+    "first":{
+    "adNo":["227"],"grade":["A"]},
+    "second":{
+    "adNo":["283"],"grade":["A"]},
+    "third":{
+    "adNo":["242"],"grade":["A"]},
+    "grade":{
+    "adNo":["239","167","554"],"grade":["A","B","B"]}
+    }
+    },
+    "A39":{
+    "Program":"Khuthuba",
+    "type":"SINGLE STAGE",
+    "result":{
+    "first":{
+    "adNo":[],"grade":[]},
+    "second":{
+    "adNo":[],"grade":[]},
+    "third":{
+    "adNo":[],"grade":[]},
+    "grade":{
+    "adNo":[],"grade":[]}
+    }
+    },
+    "A40":{
+    "Program":"Mala Writing & Recitation",
+    "type":"SINGLE STAGE",
+    "result":{
+    "first":{
+    "adNo":[],"grade":[]},
+    "second":{
+    "adNo":[],"grade":[]},
+    "third":{
+    "adNo":[],"grade":[]},
+    "grade":{
+    "adNo":[],"grade":[]}
+    }
+    },
+    "A41":{
+    "Program":"Campus Talent",
+    "type":"SINGLE STAGE",
+    "result":{
+    "first":{
+    "adNo":[],"grade":[]},
+    "second":{
+    "adNo":[],"grade":[]},
+    "third":{
+    "adNo":[],"grade":[]},
+    "grade":{
+    "adNo":[],"grade":[]}
+    }
+    },
+    "A37":{
+    "Program":"Junction Speech",
+    "type":"SINGLE STAGE",
+    "result":{
+    "first":{
+    "adNo":[],"grade":[]},
+    "second":{
+    "adNo":[],"grade":[]},
+    "third":{
+    "adNo":[],"grade":[]},
+    "grade":{
+    "adNo":[],"grade":[]}
+    }
+    },
+    "A38":{
+    "Program":"Translation speech (4-Lingual)",
+    "type":"SINGLE STAGE",
+    "result":{
+    "first":{
+    "adNo":[],"grade":[]},
+    "second":{
+    "adNo":[],"grade":[]},
+    "third":{
+    "adNo":[],"grade":[]},
+    "grade":{
+    "adNo":[],"grade":[]}
+    }
+    },
+    "A18":{
+    "Program":"Short Story Malayalam",
+    "type":"SINGLE NON STAGE",
+    "result":{
+    "first":{
+    "adNo":[],"grade":[]},
+    "second":{
+    "adNo":[],"grade":[]},
+    "third":{
+    "adNo":[],"grade":[]},
+    "grade":{
+    "adNo":[],"grade":[]}
+    }
+    },
+    "A19":{
+    "Program":"Short Story Urdu",
+    "type":"SINGLE NON STAGE",
+    "result":{
+    "first":{
+    "adNo":[],"grade":[]},
+    "second":{
+    "adNo":[],"grade":[]},
+    "third":{
+    "adNo":[],"grade":[]},
+    "grade":{
+    "adNo":[],"grade":[]}
+    }
+    },
+    "A20":{
+    "Program":"Versification Arabic",
+    "type":"SINGLE NON STAGE",
+    "result":{
+    "first":{
+    "adNo":[],"grade":[]},
+    "second":{
+    "adNo":[],"grade":[]},
+    "third":{
+    "adNo":[],"grade":[]},
+    "grade":{
+    "adNo":[],"grade":[]}
+    }
+    },
+    "A21":{
+    "Program":"Versification English",
+    "type":"SINGLE NON STAGE",
+    "result":{
+    "first":{
+    "adNo":[],"grade":[]},
+    "second":{
+    "adNo":[],"grade":[]},
+    "third":{
+    "adNo":[],"grade":[]},
+    "grade":{
+    "adNo":[],"grade":[]}
+    }
+    },
+    "A22":{
+    "Program":"Versification Malayalam",
+    "type":"SINGLE NON STAGE",
+    "result":{
+    "first":{
+    "adNo":[],"grade":[]},
+    "second":{
+    "adNo":[],"grade":[]},
+    "third":{
+    "adNo":[],"grade":[]},
+    "grade":{
+    "adNo":[],"grade":[]}
+    }
+    },
+    "A23":{
+    "Program":"Versification Urdu",
+    "type":"SINGLE NON STAGE",
+    "result":{
+    "first":{
+    "adNo":[],"grade":[]},
+    "second":{
+    "adNo":[],"grade":[]},
+    "third":{
+    "adNo":[],"grade":[]},
+    "grade":{
+    "adNo":[],"grade":[]}
+    }
+    },
+    "A24":{
+    "Program":"photography",
+    "type":"SINGLE NON STAGE",
+    "result":{
+    "first":{
+    "adNo":[],"grade":[]},
+    "second":{
+    "adNo":[],"grade":[]},
+    "third":{
+    "adNo":[],"grade":[]},
+    "grade":{
+    "adNo":[],"grade":[]}
+    }
+    },
+    "A25":{
+    "Program":"Social media updates ENG",
+    "type":"SINGLE NON STAGE",
+    "result":{
+    "first":{
+    "adNo":["283"],"grade":["A"]},
+    "second":{
+    "adNo":["167"],"grade":["A"]},
+    "third":{
+    "adNo":["227"],"grade":["B"]},
+    "grade":{
+    "adNo":["207","238"],"grade":["B","B"]}
+    }
+    },
+    "A26":{
+    "Program":"Hallil ibarah",
+    "type":"SINGLE NON STAGE",
+    "result":{
+    "first":{
+    "adNo":[],"grade":[]},
+    "second":{
+    "adNo":[],"grade":[]},
+    "third":{
+    "adNo":[],"grade":[]},
+    "grade":{
+    "adNo":[],"grade":[]}
+    }
+    },
+    "A27":{
+    "Program":"Cover Designing ENG (DIG)",
+    "type":"SINGLE NON STAGE",
+    "result":{
+    "first":{
+    "adNo":[],"grade":[]},
+    "second":{
+    "adNo":[],"grade":[]},
+    "third":{
+    "adNo":[],"grade":[]},
+    "grade":{
+    "adNo":[],"grade":[]}
+    }
+    },
+    "A32":{
+    "Program":"Al-Qira'th & Thajveed",
+    "type":"SINGLE STAGE",
+    "result":{
+    "first":{
+    "adNo":[],"grade":[]},
+    "second":{
+    "adNo":[],"grade":[]},
+    "third":{
+    "adNo":[],"grade":[]},
+    "grade":{
+    "adNo":[],"grade":[]}
+    }
+    },
+    "A33":{
+    "Program":"HIFZ",
+    "type":"SINGLE STAGE",
+    "result":{
+    "first":{
+    "adNo":["213"],"grade":["A"]},
+    "second":{
+    "adNo":["199"],"grade":["A"]},
+    "third":{
+    "adNo":["305"],"grade":["A"]},
+    "grade":{
+    "adNo":[],"grade":[]}
+    }
+    },
+    "A34":{
+    "Program":"Extempore Speech ARB",
+    "type":"SINGLE STAGE",
+    "result":{
+    "first":{
+    "adNo":["251"],"grade":["A"]},
+    "second":{
+    "adNo":["213"],"grade":["A"]},
+    "third":{
+    "adNo":["208"],"grade":["B"]},
+    "grade":{
+    "adNo":[],"grade":[]}
+    }
+    },
+    "A35":{
+    "Program":"Extempore Speech ENG",
+    "type":"SINGLE STAGE",
+    "result":{
+    "first":{
+    "adNo":[],"grade":[]},
+    "second":{
+    "adNo":[],"grade":[]},
+    "third":{
+    "adNo":[],"grade":[]},
+    "grade":{
+    "adNo":[],"grade":[]}
+    }
+    },
+    "A36":{
+    "Program":"Extempore Speech URD",
+    "type":"SINGLE STAGE",
+    "result":{
+    "first":{
+    "adNo":["234"],"grade":["A"]},
+    "second":{
+    "adNo":["202"],"grade":["A"]},
+    "third":{
+    "adNo":["246"],"grade":["B"]},
+    "grade":{
+    "adNo":[],"grade":[]}
+    }
+    },
+    "A1":{
+    "Program":"Cartoon",
+    "type":"SINGLE NON STAGE",
+    "result":{
+    "first":{
+    "adNo":[],"grade":[]},
+    "second":{
+    "adNo":[],"grade":[]},
+    "third":{
+    "adNo":[],"grade":[]},
+    "grade":{
+    "adNo":[],"grade":[]}
+    }
+    },
+    "A2":{
+    "Program":"Essay Arabic",
+    "type":"SINGLE NON STAGE",
+    "result":{
+    "first":{
+    "adNo":["251"],"grade":["A"]},   
+    "second":{
+    "adNo":["209"],"grade":["A"]},
+    "third":{
+    "adNo":["314"],"grade":["A"]},
+    "grade":{
+    "adNo":["180","199","244","208","213"],"grade":["A","A","B","B","B"]}
+    }
+    },
+    "A3":{
+    "Program":"Essay English",
+    "type":"SINGLE NON STAGE",
+    "result":{
+    "first":{
+    "adNo":["207"],"grade":["A"]},
+    "second":{
+    "adNo":["238"],"grade":["A"]},
+    "third":{
+    "adNo":["167"],"grade":["B"]},
+    "grade":{
+    "adNo":["283"],"grade":["B"]}
+    }
+    },
+    "A4":{
+    "Program":"Essay Malayalam",
+    "type":"SINGLE NON STAGE",
+    "result":{
+    "first":{
+    "adNo":["318"],"grade":["A"]},
+    "second":{
+    "adNo":["287"],"grade":["A"]},
+    "third":{
+    "adNo":["239"],"grade":["A"]},
+    "grade":{
+    "adNo":["224"],"grade":["B"]}
+    }
+    },
+    "A5":{
+    "Program":"Essay Urdu",
+    "type":"SINGLE NON STAGE",
+    "result":{
+    "first":{
+    "adNo":[],"grade":[]},
+    "second":{
+    "adNo":[],"grade":[]},
+    "third":{
+    "adNo":[],"grade":[]},
+    "grade":{
+    "adNo":[],"grade":[]}
+    }
+    },
+    "A6":{
+    "Program":"Listening and writing (arb)",
+    "type":"SINGLE NON STAGE",
+    "result":{
+    "first":{
+    "adNo":[],"grade":[]},
+    "second":{
+    "adNo":[],"grade":[]},
+    "third":{
+    "adNo":[],"grade":[]},
+    "grade":{
+    "adNo":[],"grade":[]}
+    }
+    },
+    "A7":{
+    "Program":"Listening and writing (eng)",
+    "type":"SINGLE NON STAGE",
+    "result":{
+    "first":{
+    "adNo":["227"],"grade":["A"]},
+    "second":{
+    "adNo":["207"],"grade":["A"]},
+    "third":{
+    "adNo":["283"],"grade":["A"]},
+    "grade":{
+    "adNo":["242"],"grade":["B"]}
+    }
+    },
+    "A8":{
+    "Program":"Listening and writing (urd)",
+    "type":"SINGLE NON STAGE",
+    "result":{
+    "first":{
+    "adNo":["234"],"grade":["A"]},
+    "second":{
+    "adNo":["240"],"grade":["A"]},
+    "third":{
+    "adNo":["246"],"grade":["B"]},
+    "grade":{
+    "adNo":[],"grade":[]}
+    }
+    },
+    "A9":{
+    "Program":"News writing ARB",
+    "type":"SINGLE NON STAGE",
+    "result":{
+    "first":{
+    "adNo":["251"],"grade":["A"]},
+    "second":{
+    "adNo":["209"],"grade":["A"]},
+    "third":{
+    "adNo":["213"],"grade":["B"]},
+    "grade":{
+    "adNo":[],"grade":[]}
+    }
+    },
+    "A10":{
+    "Program":"News writing URD",
+    "type":"SINGLE NON STAGE",
+    "result":{
+    "first":{
+    "adNo":[],"grade":[]},
+    "second":{
+    "adNo":[],"grade":[]},
+    "third":{
+    "adNo":[],"grade":[]},
+    "grade":{
+    "adNo":[],"grade":[]}
+    }
+    },
+    "A11":{
+    "Program":"News writing ENG",
+    "type":"SINGLE NON STAGE",
+    "result":{
+    "first":{
+    "adNo":["227"],"grade":["B"]},
+    "second":{
+    "adNo":["242"],"grade":["B"]},
+    "third":{
+    "adNo":["238"],"grade":[]},
+    "grade":{
+    "adNo":[],"grade":[]}
+    }
+    },
+    "A12":{
+    "Program":"Proof Reading ARB",
+    "type":"SINGLE NON STAGE",
+    "result":{
+    "first":{
+    "adNo":[],"grade":[]},
+    "second":{
+    "adNo":[],"grade":[]},
+    "third":{
+    "adNo":[],"grade":[]},
+    "grade":{
+    "adNo":[],"grade":[]}
+    }
+    },
+    "A13":{
+    "Program":"Proof Reading ENG",
+    "type":"SINGLE NON STAGE",
+    "result":{
+    "first":{
+    "adNo":["167"],"grade":["A"]},
+    "second":{
+    "adNo":["238"],"grade":["A"]},
+    "third":{
+    "adNo":["207"],"grade":["B"]},
+    "grade":{
+    "adNo":["283"],"grade":["B"]}
+    }
+    },
+    "A14":{
+    "Program":"Proof Reading Mlm",
+    "type":"SINGLE NON STAGE",
+    "result":{
+    "first":{
+    "adNo":[],"grade":[]},
+    "second":{
+    "adNo":[],"grade":[]},
+    "third":{
+    "adNo":[],"grade":[]},
+    "grade":{
+    "adNo":[],"grade":[]}
+    }
+    },
+    "A15":{
+    "Program":"Proof Reading Urd",
+    "type":"SINGLE NON STAGE",
+    "result":{
+    "first":{
+    "adNo":[],"grade":[]},
+    "second":{
+    "adNo":[],"grade":[]},
+    "third":{
+    "adNo":[],"grade":[]},
+    "grade":{
+    "adNo":[],"grade":[]}
+    }
+    },
+    "A16":{
+    "Program":"Short Story Arabic",
+    "type":"SINGLE NON STAGE",
+    "result":{
+    "first":{
+    "adNo":[],"grade":[]},
+    "second":{
+    "adNo":[],"grade":[]},
+    "third":{
+    "adNo":[],"grade":[]},
+    "grade":{
+    "adNo":[],"grade":[]}
+    }
+    },
+    "A17":{
+    "Program":"Short Story English",
+    "type":"SINGLE NON STAGE",
+    "result":{
+    "first":{
+    "adNo":[],"grade":[]},
+    "second":{
+    "adNo":[],"grade":[]},
+    "third":{
+    "adNo":[],"grade":[]},
+    "grade":{
+    "adNo":[],"grade":[]}
+    }
+    },
+    "A46":{
+    "Program":"padappattu",
+    "type":"SINGLE STAGE",
+    "result":{
+    "first":{
+    "adNo":["223"],"grade":["A"]},
+    "second":{
+    "adNo":["172"],"grade":["A"]},
+    "third":{
+    "adNo":["228"],"grade":["A"]},
+    "grade":{
+    "adNo":["255","277","254"],"grade":["A","A","B"]}
+    }
+    },
+    "A47":{
+    "Program":"Reverse Quiz",
+    "type":"SINGLE STAGE",
+    "result":{
+    "first":{
+    "adNo":[],"grade":[]},
+    "second":{
+    "adNo":[],"grade":[]},
+    "third":{
+    "adNo":[],"grade":[]},
+    "grade":{
+    "adNo":[],"grade":[]}
+    }
+    },
+    "A48":{
+    "Program":"Thadrees",
+    "type":"SINGLE STAGE",
+    "result":{
+    "first":{
+    "adNo":["292"],"grade":["A"]},
+    "second":{
+    "adNo":["238"],"grade":["B"]},
+    "third":{
+    "adNo":["214"],"grade":["B"]},
+    "grade":{
+    "adNo":["207","254"],"grade":["B","B"]}
+    }
+    },
+    "A49":{
+    "Program":"Vaa'z",
+    "type":"SINGLE STAGE",
+    "result":{
+    "first":{
+    "adNo":[],"grade":[]},
+    "second":{
+    "adNo":[],"grade":[]},
+    "third":{
+    "adNo":[],"grade":[]},
+    "grade":{
+    "adNo":[],"grade":[]}
+    }
+    },
+    "A50":{
+    "Program":"Kaviyarang",
+    "type":"SINGLE STAGE",
+    "result":{
+    "first":{
+    "adNo":[],"grade":[]},
+    "second":{
+    "adNo":[],"grade":[]},
+    "third":{
+    "adNo":[],"grade":[]},
+    "grade":{
+    "adNo":[],"grade":[]}
+    }
+    },
+    "A51":{
+    "Program":"Project Presentation ENG",
+    "type":"SINGLE STAGE",
+    "result":{
+    "first":{
+    "adNo":[],"grade":[]},
+    "second":{
+    "adNo":[],"grade":[]},
+    "third":{
+    "adNo":[],"grade":[]},
+    "grade":{
+    "adNo":[],"grade":[]}
+    }
+    },
+    "A52":{
+    "Program":"Announcement",
+    "type":"SINGLE STAGE",
+    "result":{
+    "first":{
+    "adNo":[],"grade":[]},
+    "second":{
+    "adNo":[],"grade":[]},
+    "third":{
+    "adNo":[],"grade":[]},
+    "grade":{
+    "adNo":[],"grade":[]}
+    }
+    },
+    "A53":{
+    "Program":"Mashup",
+    "type":"STAGE GROUP",
+    "result":{
+    "first":{
+    "adNo":[],"grade":[]},
+    "second":{
+    "adNo":[],"grade":[]},
+    "third":{
+    "adNo":[],"grade":[]},
+    "grade":{
+    "adNo":[],"grade":[]}
+    }
+    },
+    "A54":{
+    "Program":"Press Conference",
+    "type":"STAGE GROUP",
+    "result":{
+    "first":{
+    "adNo":[],"grade":[]},
+    "second":{
+    "adNo":[],"grade":[]},
+    "third":{
+    "adNo":[],"grade":[]},
+    "grade":{
+    "adNo":[],"grade":[]}
+    }
+    },
+    "A55":{
+    "Program":"Chanel Debate",
+    "type":"STAGE GROUP",
+    "result":{
+    "first":{
+    "adNo":[],"grade":[]},
+    "second":{
+    "adNo":[],"grade":[]},
+    "third":{
+    "adNo":[],"grade":[]},
+    "grade":{
+    "adNo":[],"grade":[]}
+    }
+    },
+    "A56":{
+    "Program":"Tha'leemussunnah",
+    "type":"STAGE GROUP",
+    "result":{
+    "first":{
+    "adNo":[],"grade":[]},
+    "second":{
+    "adNo":[],"grade":[]},
+    "third":{
+    "adNo":[],"grade":[]},
+    "grade":{
+    "adNo":[],"grade":[]}
+    }
+    },
+    "A57":{
+    "Program":"Mahfile sama'",
+    "type":"STAGE GENERAL",
+    "result":{
+    "first":{
+    "adNo":[],"grade":[]},
+    "second":{
+    "adNo":[],"grade":[]},
+    "third":{
+    "adNo":[],"grade":[]},
+    "grade":{
+    "adNo":[],"grade":[]}
+    }
+    },
+    "A58":{
+    "Program":"Musha'ara",
+    "type":"STAGE GENERAL",
+    "result":{
+    "first":{
+    "adNo":[],"grade":[]},
+    "second":{
+    "adNo":[],"grade":[]},
+    "third":{
+    "adNo":[],"grade":[]},
+    "grade":{
+    "adNo":[],"grade":[]}
+    }
+    },
+    "A59":{
+    "Program":"Qawwali URD",
+    "type":"STAGE GENERAL",
+    "result":{
+    "first":{
+    "adNo":[],"grade":[]},
+    "second":{
+    "adNo":[],"grade":[]},
+    "third":{
+    "adNo":[],"grade":[]},
+    "grade":{
+    "adNo":[],"grade":[]}
+    }
+    },
+    "A60":{
+    "Program":"Da'wa Skit",
+    "type":"STAGE GENERAL",
+    "result":{
+    "first":{
+    "adNo":[],"grade":[]},
+    "second":{
+    "adNo":[],"grade":[]},
+    "third":{
+    "adNo":[],"grade":[]},
+    "grade":{
+    "adNo":[],"grade":[]}
+    }
+    },
+    "A61":{
+    "Program":"Munazara Arabic",
+    "type":"STAGE GENERAL",
+    "result":{
+    "first":{
+    "adNo":[],"grade":[]},
+    "second":{
+    "adNo":[],"grade":[]},
+    "third":{
+    "adNo":[],"grade":[]},
+    "grade":{
+    "adNo":[],"grade":[]}
+    }
+    },
+    "A28":{
+    "Program":"Digital Tabloid",
+    "type":"GENERAL ITEMS",
+    "result":{
+    "first":{
+    "adNo":[],"grade":[]},
+    "second":{
+    "adNo":[],"grade":[]},
+    "third":{
+    "adNo":[],"grade":[]},
+    "grade":{
+    "adNo":[],"grade":[]}
+    }
+    },
+    "A29":{
+    "Program":"Short felim",
+    "type":"GENERAL ITEMS",
+    "result":{
+    "first":{
+    "adNo":[],"grade":[]},
+    "second":{
+    "adNo":[],"grade":[]},
+    "third":{
+    "adNo":[],"grade":[]},
+    "grade":{
+    "adNo":[],"grade":[]}
+    }
+    },
+    "A30":{
+    "Program":"News paper Making",
+    "type":"GENERAL ITEMS",
+    "result":{
+    "first":{
+    "adNo":[],"grade":[]},
+    "second":{
+    "adNo":[],"grade":[]},
+    "third":{
+    "adNo":[],"grade":[]},
+    "grade":{
+    "adNo":[],"grade":[]}
+    }
+    },
+    "A31":{
+    "Program":"Collage",
+    "type":"GENERAL ITEMS",
+    "result":{
+    "first":{
+    "adNo":[],"grade":[]},
+    "second":{
+    "adNo":[],"grade":[]},
+    "third":{
+    "adNo":[],"grade":[]},
+    "grade":{
+    "adNo":[],"grade":[]}
+    }
+    }
+    }}}
